@@ -16,6 +16,6 @@ dotnet run
 ```
 
 The `dotnet restore` command first restores the necessary packages required to run the application, 
-the `dotnet run` command simultaneously re-compiles and runs the `kestrel-server`.
+the `dotnet run` command simultaneously re-compiles and runs the application in the terminal
 
 I would love to hear your [feedback](https://temilajumoke.com)
