@@ -1,4 +1,4 @@
-# Cross platform ASP.NET Core
+# Cross platform ASP.NET core
 Code sample detailing how to create ASP.NET core applications on any OS
 
 ## Run & Deploy
